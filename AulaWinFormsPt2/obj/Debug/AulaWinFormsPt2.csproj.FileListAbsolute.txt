@@ -1,0 +1,13 @@
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsPt2\bin\Debug\AulaWinFormsPt2.exe.config
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsPt2\bin\Debug\AulaWinFormsPt2.exe
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsPt2\bin\Debug\AulaWinFormsPt2.pdb
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsPt2\obj\Debug\AulaWinFormsPt2.csprojAssemblyReference.cache
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsPt2\obj\Debug\AulaWinFormsPt2.Exec02.resources
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsPt2\obj\Debug\AulaWinFormsPt2.Form1.resources
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsPt2\obj\Debug\AulaWinFormsPt2.Properties.Resources.resources
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsPt2\obj\Debug\AulaWinFormsPt2.csproj.GenerateResource.cache
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsPt2\obj\Debug\AulaWinFormsPt2.csproj.CoreCompileInputs.cache
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsPt2\obj\Debug\AulaWinFormsPt2.exe
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsPt2\obj\Debug\AulaWinFormsPt2.pdb
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsPt2\obj\Debug\AulaWinFormsPt2.Exec02Saque.resources
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsPt2\obj\Debug\AulaWinFormsPt2.Exec02Contas.resources
