@@ -1,0 +1,10 @@
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsExec01\bin\Debug\AulaWinFormsExec01.exe.config
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsExec01\bin\Debug\AulaWinFormsExec01.exe
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsExec01\bin\Debug\AulaWinFormsExec01.pdb
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsExec01\obj\Debug\AulaWinFormsExec01.csprojAssemblyReference.cache
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsExec01\obj\Debug\AulaWinFormsExec01.Form1.resources
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsExec01\obj\Debug\AulaWinFormsExec01.Properties.Resources.resources
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsExec01\obj\Debug\AulaWinFormsExec01.csproj.GenerateResource.cache
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsExec01\obj\Debug\AulaWinFormsExec01.csproj.CoreCompileInputs.cache
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsExec01\obj\Debug\AulaWinFormsExec01.exe
+C:\Users\jeniffer.steilein\source\repos\AulaWinFormsExec01\obj\Debug\AulaWinFormsExec01.pdb
